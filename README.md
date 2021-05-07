@@ -20,6 +20,7 @@ You will need to learn some basics before you can unleash the power of such a fr
 - Understand basics of Operating Systems and Queues CPU Cycles and Interrupts.
 - The Callback Pattern. And the ECMAScript Engines eventLoop and queues
 - Understand how to implement a NodeJS Like EventEmitter
+- Understand Browser Rendingering Behavior and Queues as also Execution Environments like Workers and ServiceWorkers.
 - How to Implement Callback to Promise and Promise to Callback adapters
 - How to Implement then Ables also called Promises.
 - Understand how to implement a NodeJS & WebStream API Interface.
