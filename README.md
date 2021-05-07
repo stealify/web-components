@@ -12,6 +12,10 @@ on the Tooling my Philosophie is that it should be possible to archive that with
 "Stencil" while we agree that the usage of the customElements API and WebComponents in general for ios and android are great.
 Also we agree on Cordova as Compatibility Layer between the two platforms.
 
+## After Ionic?
+We will try to cover all https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/ and then we take them
+into this nice component pattern and will share them with Streamline Editor and Our Other Apps to Allow you to Compose WebComponents
+Visual And Smoth. Streamline wants to be the defacto WebEditor i have a clear vision for it. https://github.com/frank-dspeed/streamline
 
 ## Compatibility Basics
 
