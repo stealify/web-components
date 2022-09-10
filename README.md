@@ -1,21 +1,5 @@
 # components
-A Collections of Reuseable ECMAScript WebComponents including a Framework SDK to build your own react or angular, vue, lit-html.
-
-this project is inspired by all Major and Legacy Frameworks and aims to clear the Fog around WebComponent Frameworks.
-It offers the ionic framework components as reuseable stealify-components as also the stealify-web-and-component-framework-sdk
-
-As i tend to eat my own dog food this will get used to build "Streamline" my newst Product. A Full App Lifecycle Managment Solution.
-
-## Why Ionic?
-The Ideas of them in general and the mindset and Project Missions to algin and overlap with my Vision for the Web. While i disagree 
-on the Tooling my Philosophie is that it should be possible to archive that with more nativ methods so we disagree on for example
-"Stencil" while we agree that the usage of the customElements API and WebComponents in general for ios and android are great.
-Also we agree on Cordova as Compatibility Layer between the two platforms.
-
-## After Ionic?
-We will try to cover all https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/ and then we take them
-into this nice component pattern and will share them with Streamline Editor and Our Other Apps to Allow you to Compose WebComponents
-Visual And Smoth. Streamline wants to be the defacto WebEditor i have a clear vision for it. https://github.com/frank-dspeed/streamline
+A Collections of Stealify Components.
 
 ## Compatibility Basics
 
